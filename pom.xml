@@ -5,7 +5,7 @@
 
 	<groupId>com.ge.predix.solsvc</groupId>
 	<artifactId>machinedata-simulator</artifactId>
-	<version>4.0.8</version>
+	<version>4.0.9</version>
 	<packaging>jar</packaging>
 
 	<description>Machine Data Simulator</description>
@@ -18,7 +18,7 @@
 	</parent>
 
 	<properties>
-		<predix-rest-client.version>2.0.10</predix-rest-client.version>
+		<predix-rest-client.version>2.0.11</predix-rest-client.version>
 		<jackson-core-asl.version>1.9.13</jackson-core-asl.version>
 		<jackson-mapper-asl.version>1.9.13</jackson-mapper-asl.version>
 
