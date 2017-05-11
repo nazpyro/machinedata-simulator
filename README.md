@@ -4,6 +4,7 @@
 <a href="http://predixdev.github.io/machinedata-simulator" target="_blank">
 	<img height="50px" width="100px" src="images/pages.jpg" alt="view github pages">
 </a>
+
 machinedata-simulator
 =====================
 
@@ -53,13 +54,13 @@ Start the simulator in cloud
       cf start <my-machinedata-simulator-name>
 
 
-##Tech Stack
+## Tech Stack
 - Spring
 - SpringBoot
 - SpringTest
 - Maven
 
-##Microcomponents
+## Microcomponents
 - [AssetBootstrap](https://github.com/predixdev/asset-bootstrap)
 - [TimeseriesBootstrap](https://github.com/predixdev/timeseries-bootstrap)
 - [PredixBoot](https://github.com/predixdev/predix-boot)
